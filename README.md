@@ -1,7 +1,11 @@
 My name is Arvin Visi and I'm a web back-end developer!👋
+<br>
 👯 I’m looking to collaborate on ... Django
+<br>
 💬 Ask me about ... Anything
+<br>
 📫 How to reach me: ... Instagram
+<br>
 😄 Pronouns: ... He/Him
 
 
