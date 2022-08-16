@@ -1,4 +1,4 @@
-My name is Arvin Visi and I'm a web back-end developer! 👋
+My name is Arvin Visi and I'm a web back-end developer!👋
 👯 I’m looking to collaborate on ... Django
 💬 Ask me about ... Anything
 📫 How to reach me: ... Instagram
