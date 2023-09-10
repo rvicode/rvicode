@@ -42,10 +42,10 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: ${{ github.ref }}
           force: true
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: fastify/github-action-merge-dependabot@v2.1.1
         with:
           # the output branch we mentioned above
           target_branch: output
