@@ -35,22 +35,9 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
-  dependabot:
-    #needs: [build]
-    runs-on: ubuntu-latest
-    if: ${{ github.actor == 'dependabot[bot]' }}
-    steps:
-      - uses: actions/setup-node@v2
-        with:
-          node-version: '14'
-      - uses: actions/checkout@v2
-        with:
-          persist-credentials: false
-          fetch-depth: 0
-      - run: |
-          git config user.name github-actions[bot]
-          git config user.email github-actions[bot]@users.noreply.github.com
-          npm version patch -m "[RELEASE] %s"
+      - run: git status
+
+      # Push the changes
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
