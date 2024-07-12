@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="center">I'm Arvin.<br><br>A mobile programmer</h3>
+<h3 align="center">I'm Arvin.<br><br>A mobile programmer.</h3>
 
 ###
 
