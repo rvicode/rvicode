@@ -1,53 +1,60 @@
 <div align="center">
-  <a href="https://www.instagram.com/arvin__veysi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo"  />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,100:2C5364&text=Arvin&fontSize=45&fontColor=ffffff&fontAlignY=35"/>
+
+# Flutter Developer
+
+Building clean and responsive mobile applications with Flutter.
+
+<p>
+  <a href="https://github.com/rvicode">
+    <img src="https://img.shields.io/github/followers/rvicode?label=Follow&style=flat-square"/>
   </a>
-  <a href="https://www.linkedin.com/in/arvin-visi-744601231/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=rvicode&style=flat-square&color=0e75b6"/>
+</p>
+
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## About Me
 
-###
+* 📱 Flutter Developer
+* 🧠 Interested in Clean Architecture
+* 🔥 Working with GetX, Firebase and REST APIs
+* 🎨 Passionate about UI/UX and smooth animations
 
-<h2 align="left">👩‍💻  About Me</h2>
+---
 
-###
+## Tech Stack
 
-<h3 align="center">I'm Arvin.<br><br>A mobile programmer.</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma,vscode,linux&perline=8"/>
+</p>
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## GitHub Stats
 
-###
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rvicode&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvicode&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Pac-Man Contribution
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rvicode/rvicode/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rvicode/rvicode/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/rvicode/rvicode/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+---
 
 <div align="center">
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,100:0F2027"/>
 </div>
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Arvin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Arvin" /></a></p><br><br>
