@@ -24,7 +24,7 @@ I'm a Mobile Developer focused on building modern, scalable, and high-performanc
 - Love creating reusable components and design systems
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
