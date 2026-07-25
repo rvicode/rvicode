@@ -17,11 +17,11 @@ Building scalable and beautiful mobile experiences with Flutter
 
 I'm a Mobile Developer focused on building modern, scalable, and high-performance applications.
 
-- 📱 Specialized in **Flutter & Dart**
-- 🏗️ Experienced with **Clean Architecture & Modular Design**
-- 🎨 Passionate about beautiful and responsive UI
-- 🔌 Working with REST APIs and scalable backend integrations
-- ⚡ Love creating reusable components and design systems
+- Specialized in **Flutter & Dart**
+- Experienced with **Clean Architecture & Modular Design**
+- Passionate about beautiful and responsive UI
+- Working with REST APIs and scalable backend integrations
+- Love creating reusable components and design systems
 
 
 ## 🛠 Tech Stack
