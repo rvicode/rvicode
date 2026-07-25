@@ -13,7 +13,7 @@ Building scalable and beautiful mobile experiences with Flutter
 </div>
 
 
-## 👋 About Me
+## About Me
 
 I'm a Mobile Developer focused on building modern, scalable, and high-performance applications.
 
@@ -33,7 +33,7 @@ I'm a Mobile Developer focused on building modern, scalable, and high-performanc
 </div>
 
 
-## 📱 Mobile Development
+## Mobile Development
 
 ```text
 Flutter
@@ -53,7 +53,7 @@ Backend Integration
 ```
 
 
-## 🐍 Snake Contribution
+## Snake Contribution
 
 <p align="center">
   <picture>
